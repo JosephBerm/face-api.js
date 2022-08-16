@@ -9,3 +9,4 @@ weights_unused
 docs
 out
 build
+examples/examples-browser/package-lock.json
